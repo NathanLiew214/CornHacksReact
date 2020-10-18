@@ -40,7 +40,7 @@ const SponsorPage = () => {
             </GradientHero>
             <TextSection backgroundColor={Colors.DARK_BLUE}>
                 <Type size="h3" align="center" bold>
-                    January 16th and 17th, 2021 @
+                    January 30th and 31st, 2021 @
                 </Type>
                 <a
                     style={{ color: Colors.WHITE }}
